@@ -1,0 +1,28 @@
+{
+  "name": "Imovie",
+  "authors": [
+    "yzsunlei <846990846@qq.com>"
+  ],
+  "description": "Imovie",
+  "main": "app.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "movie"
+  ],
+  "license": "MIT",
+  "homepage": "yzsunlei.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
